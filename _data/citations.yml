@@ -1,23 +1,15 @@
 metadata:
-  last_updated: '2025-12-19'
+  last_updated: '2025-12-22'
 papers:
   CkOjN_UAAAAJ:2osOgNQ5qMEC:
     citations: 1
     title: Efficient Model-Agnostic Multi-group Equivariant Networks
     year: '2024'
-  CkOjN_UAAAAJ:4JMBOYKVnBMC:
-    citations: 7
-    title: Learning transfers over several programming languages
-    year: '2023'
   CkOjN_UAAAAJ:5nxA0vEk-isC:
     citations: 1
     title: Many LLMs Are More Utilitarian Than One
     year: '2025'
-  CkOjN_UAAAAJ:RHpTSmoSYBkC:
-    citations: 12
-    title: 'Conformity, confabulation, and impersonation: Persona inconstancy in multi-agent llm collaboration'
-    year: '2024'
-  CkOjN_UAAAAJ:_Qo2XoVZTnwC:
+  CkOjN_UAAAAJ:TFP_iSt0sucC:
     citations: 2
     title: 'Persona Inconstancy in Multi-Agent LLM Collaboration: Conformity, Confabulation, and Impersonation'
     year: '2024'
@@ -25,10 +17,18 @@ papers:
     citations: 5
     title: Muslim-violence Bias Persists in Debiased GPT Models
     year: '2023'
-  CkOjN_UAAAAJ:j3f4tGmQtD8C:
+  CkOjN_UAAAAJ:isC4tDSrTZIC:
+    citations: 12
+    title: 'Conformity, confabulation, and impersonation: Persona inconstancy in multi-agent llm collaboration'
+    year: '2024'
+  CkOjN_UAAAAJ:k_IJM867U9cC:
+    citations: 7
+    title: Learning transfers over several programming languages
+    year: '2023'
+  CkOjN_UAAAAJ:maZDTaKrznsC:
     citations: 1
     title: 'Cross-lingual Transfer in Programming Languages: An Extensive Empirical Study'
-    year: '2025'
+    year: Unknown Year
   CkOjN_UAAAAJ:u5HHmVD_uO8C:
     citations: 5
     title: Probing Numeracy and Logic of Language Models of Code
