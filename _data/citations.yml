@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-22'
+  last_updated: '2025-12-29'
 papers:
   CkOjN_UAAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -22,13 +22,13 @@ papers:
     title: 'Conformity, confabulation, and impersonation: Persona inconstancy in multi-agent llm collaboration'
     year: '2024'
   CkOjN_UAAAAJ:k_IJM867U9cC:
-    citations: 7
+    citations: 8
     title: Learning transfers over several programming languages
     year: '2023'
   CkOjN_UAAAAJ:maZDTaKrznsC:
     citations: 1
     title: 'Cross-lingual Transfer in Programming Languages: An Extensive Empirical Study'
-    year: Unknown Year
+    year: '2025'
   CkOjN_UAAAAJ:u5HHmVD_uO8C:
     citations: 5
     title: Probing Numeracy and Logic of Language Models of Code
