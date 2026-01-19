@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-29'
+  last_updated: '2026-01-19'
 papers:
   CkOjN_UAAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -14,7 +14,7 @@ papers:
     title: 'Persona Inconstancy in Multi-Agent LLM Collaboration: Conformity, Confabulation, and Impersonation'
     year: '2024'
   CkOjN_UAAAAJ:e5wmG9Sq2KIC:
-    citations: 5
+    citations: 6
     title: Muslim-violence Bias Persists in Debiased GPT Models
     year: '2023'
   CkOjN_UAAAAJ:isC4tDSrTZIC:
