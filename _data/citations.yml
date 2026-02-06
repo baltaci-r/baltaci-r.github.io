@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-02'
+  last_updated: '2026-02-06'
 papers:
   CkOjN_UAAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -9,23 +9,23 @@ papers:
     citations: 1
     title: Many LLMs Are More Utilitarian Than One
     year: '2025'
-  CkOjN_UAAAAJ:TFP_iSt0sucC:
-    citations: 2
+  CkOjN_UAAAAJ:JV2RwH3_ST0C:
+    citations: 14
+    title: 'Conformity, confabulation, and impersonation: Persona inconstancy in multi-agent llm collaboration'
+    year: '2024'
+  CkOjN_UAAAAJ:M3NEmzRMIkIC:
+    citations: 3
     title: 'Persona Inconstancy in Multi-Agent LLM Collaboration: Conformity, Confabulation, and Impersonation'
     year: '2024'
+  CkOjN_UAAAAJ:blknAaTinKkC:
+    citations: 8
+    title: Learning transfers over several programming languages
+    year: '2023'
   CkOjN_UAAAAJ:e5wmG9Sq2KIC:
     citations: 6
     title: Muslim-violence Bias Persists in Debiased GPT Models
     year: '2023'
-  CkOjN_UAAAAJ:isC4tDSrTZIC:
-    citations: 14
-    title: 'Conformity, confabulation, and impersonation: Persona inconstancy in multi-agent llm collaboration'
-    year: '2024'
-  CkOjN_UAAAAJ:k_IJM867U9cC:
-    citations: 8
-    title: Learning transfers over several programming languages
-    year: '2023'
-  CkOjN_UAAAAJ:maZDTaKrznsC:
+  CkOjN_UAAAAJ:hMod-77fHWUC:
     citations: 1
     title: 'Cross-lingual Transfer in Programming Languages: An Extensive Empirical Study'
     year: '2025'
