@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-16'
+  last_updated: '2026-03-20'
 papers:
   CkOjN_UAAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -9,13 +9,13 @@ papers:
     citations: 1
     title: Many LLMs Are More Utilitarian Than One
     year: '2025'
-  CkOjN_UAAAAJ:JV2RwH3_ST0C:
-    citations: 14
-    title: 'Conformity, confabulation, and impersonation: Persona inconstancy in multi-agent llm collaboration'
-    year: '2024'
-  CkOjN_UAAAAJ:M3NEmzRMIkIC:
+  CkOjN_UAAAAJ:NMxIlDl6LWMC:
     citations: 3
-    title: 'Persona Inconstancy in Multi-Agent LLM Collaboration: Conformity, Confabulation, and Impersonation'
+    title: 'Persona inconstancy in multi-agent LLM collaboration: Conformity, confabulation, and impersonation'
+    year: '2024'
+  CkOjN_UAAAAJ:YFjsv_pBGBYC:
+    citations: 17
+    title: 'Conformity, confabulation, and impersonation: Persona inconstancy in multi-agent LLM collaboration'
     year: '2024'
   CkOjN_UAAAAJ:blknAaTinKkC:
     citations: 9
