@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-03-23'
 papers:
   CkOjN_UAAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -14,7 +14,7 @@ papers:
     title: 'Persona inconstancy in multi-agent LLM collaboration: Conformity, confabulation, and impersonation'
     year: '2024'
   CkOjN_UAAAAJ:YFjsv_pBGBYC:
-    citations: 17
+    citations: 18
     title: 'Conformity, confabulation, and impersonation: Persona inconstancy in multi-agent LLM collaboration'
     year: '2024'
   CkOjN_UAAAAJ:blknAaTinKkC:
