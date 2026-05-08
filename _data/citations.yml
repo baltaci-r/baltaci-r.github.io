@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-05-08'
 papers:
   CkOjN_UAAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -10,7 +10,7 @@ papers:
     title: Many LLMs Are More Utilitarian Than One
     year: '2025'
   CkOjN_UAAAAJ:BqipwSGYUEgC:
-    citations: 20
+    citations: 21
     title: 'Conformity, confabulation, and impersonation: Persona inconstancy in multi-agent LLM collaboration'
     year: '2024'
   CkOjN_UAAAAJ:NMxIlDl6LWMC:
@@ -30,6 +30,6 @@ papers:
     title: Learning transfers over several programming languages
     year: '2023'
   CkOjN_UAAAAJ:u5HHmVD_uO8C:
-    citations: 5
+    citations: 6
     title: Probing Numeracy and Logic of Language Models of Code
     year: '2023'
