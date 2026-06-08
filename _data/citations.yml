@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-05-08'
+  last_updated: '2026-06-08'
 papers:
   CkOjN_UAAAAJ:2osOgNQ5qMEC:
     citations: 1
     title: Efficient Model-Agnostic Multi-group Equivariant Networks
     year: '2024'
   CkOjN_UAAAAJ:5nxA0vEk-isC:
-    citations: 2
+    citations: 3
     title: Many LLMs Are More Utilitarian Than One
     year: '2025'
   CkOjN_UAAAAJ:BqipwSGYUEgC:
-    citations: 21
+    citations: 23
     title: 'Conformity, confabulation, and impersonation: Persona inconstancy in multi-agent LLM collaboration'
     year: '2024'
   CkOjN_UAAAAJ:NMxIlDl6LWMC:
@@ -18,15 +18,15 @@ papers:
     title: 'Persona inconstancy in multi-agent LLM collaboration: Conformity, confabulation, and impersonation'
     year: '2024'
   CkOjN_UAAAAJ:RGFaLdJalmkC:
-    citations: 3
+    citations: 5
     title: 'Cross-lingual Transfer in Programming Languages: An Extensive Empirical Study'
     year: '2025'
   CkOjN_UAAAAJ:e5wmG9Sq2KIC:
-    citations: 8
+    citations: 9
     title: Muslim-violence Bias Persists in Debiased GPT Models
     year: '2023'
   CkOjN_UAAAAJ:ns9cj8rnVeAC:
-    citations: 9
+    citations: 10
     title: Learning transfers over several programming languages
     year: '2023'
   CkOjN_UAAAAJ:u5HHmVD_uO8C:
