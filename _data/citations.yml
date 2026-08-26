@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-08-26'
 papers:
   CkOjN_UAAAAJ:2P1L_qKh6hAC:
-    citations: 10
+    citations: 11
     title: 'Cross-lingual transfer in programming languages: An extensive empirical study'
     year: '2025'
   CkOjN_UAAAAJ:2osOgNQ5qMEC:
@@ -10,7 +10,7 @@ papers:
     title: Efficient Model-Agnostic Multi-group Equivariant Networks
     year: '2024'
   CkOjN_UAAAAJ:5nxA0vEk-isC:
-    citations: 8
+    citations: 9
     title: Many LLMs Are More Utilitarian Than One
     year: '2025'
   CkOjN_UAAAAJ:e5wmG9Sq2KIC:
@@ -18,7 +18,7 @@ papers:
     title: Muslim-violence Bias Persists in Debiased GPT Models
     year: '2023'
   CkOjN_UAAAAJ:lSLTfruPkqcC:
-    citations: 33
+    citations: 34
     title: 'Conformity, confabulation, and impersonation: Persona inconstancy in multi-agent LLM collaboration'
     year: '2024'
   CkOjN_UAAAAJ:ldfaerwXgEUC:
